@@ -52,4 +52,7 @@ The Datasets directory contains three sub-datasets (MultiLogicNMR, MultiLogicNMR
 
 }
 
+## Code Description
+The Code file contains three sub-files (**Models_on_MultiLogicNMR, Models_on_MultiLogicNMR_OOD, Models_on_MultiLogicNMR_NL**), which respectively represent the execution code of the neural symbolic model (MultiLogicNMRer) proposed in the paper on different datasets. For example, the Iterative_NeSy_NMR_Solver_on_credulous_by_DeepSeek.py file in the Models_on_MultiLogicNMR file refers to the execution code of the neural symbolic framework MultiLogicNMRer proposed with DeepSeek as the basic model on the credulous reasoning subset in the MultiLogicNMR dataset.
+
 
